@@ -1,0 +1,3 @@
+[![Typing SVG](<https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+everyone+!+;My+name+is+Arman+%3A);Welcome+to+my+github+page+%3A);Enjoy+)+>)](https://git.io/typing-svg)
+[![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman0701)](https://github.com/Arman0701/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman0701)](https://github.com/Arman0701/github-readme-stats)
