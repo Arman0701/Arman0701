@@ -1,3 +1,26 @@
+# Hi, everyone! 👋
+
+## Welcome to my GitHub profile! I'm Arman Tadevosyan, a passionate and creative Frontend and Backend developer with a love for all things tech. 🚀
+
+## About Me
+
+-   🌍 I'm based in Yerevan, Armenia.
+-   💡 I'm constantly exploring new technologies and building exciting projects.
+-   🔗 [Personal Webpage](arman-tadeossian.web.app)
+
+## What I Do
+
+I specialize in web development with a focus on creating creative and user-friendly interfaces. My skill set includes:
+
+-   **Frontend Development**: I possess the capability to create striking and responsive user interfaces using HTML, CSS, and JavaScript. Moreover, I'm proficient in utilizing ReactJS, Redux / Toolkit, Redux-saga.
+-   **Backend Development**: I am experienced in crafting robust server-side applications, specifically using NodeJS and ExpressJS. My skills also extend to building scalable APIs and managing databases.
+
+## Let's Connect!
+
+I'm always open to collaborations and new opportunities. Let's connect and work together on something amazing. You can reach me on these social media platforms.
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/arman-tadevosyan-772606213/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -91,27 +114,3 @@ Thanks for visiting my GitHub profile! Feel free to explore my repositories, and
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
 </div>
-
-###
-
-# Hi, everyone! 👋
-
-## Welcome to my GitHub profile! I'm Arman Tadevosyan, a passionate and creative Frontend and Backend developer with a love for all things tech. 🚀
-
-## About Me
-
--   🌍 I'm based in Yerevan, Armenia.
--   💡 I'm constantly exploring new technologies and building exciting projects.
--   🔗 [Personal Webpage](arman-tadeossian.web.app)
-
-## What I Do
-
-I specialize in web development with a focus on creating creative and user-friendly interfaces. My skill set includes:
-
--   **Frontend Development**: I possess the capability to create striking and responsive user interfaces using HTML, CSS, and JavaScript. Moreover, I'm proficient in utilizing ReactJS, Redux / Toolkit, Redux-saga.
--   **Backend Development**: I am experienced in crafting robust server-side applications, specifically using NodeJS and ExpressJS. My skills also extend to building scalable APIs and managing databases.
-
-## Let's Connect!
-
-I'm always open to collaborations and new opportunities. Let's connect and work together on something amazing. You can reach me on these social media platforms.
-
