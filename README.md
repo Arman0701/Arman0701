@@ -111,9 +111,3 @@ Thanks for visiting my GitHub profile! Feel free to explore my repositories, and
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Arman0701/Arman0701/output/snake.svg" alt="Snake animation" />
-
-###
